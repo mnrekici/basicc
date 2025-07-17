@@ -17,4 +17,4 @@ public class BodyMassInd {
         double body_mass_index = weight / (height * height);
         System.out.println("Vücut kitle indeksiniz: " + body_mass_index);
     }
-} double müni= 21
+}
