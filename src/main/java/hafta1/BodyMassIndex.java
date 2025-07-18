@@ -1,10 +1,9 @@
-package org.example;
-
-
+package hafta1;
 
 import java.util.Scanner;
 
-public class BodyMassInd {
+public class BodyMassIndex
+{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
