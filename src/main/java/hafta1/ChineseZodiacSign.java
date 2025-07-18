@@ -40,5 +40,5 @@ public class ChineseZodiacSign {
         }
 
 
-    }aa
+    }
 }
