@@ -1,4 +1,4 @@
-package hafta2_oop;
+package Employee;
 
 public class EmployeeTest {
 
