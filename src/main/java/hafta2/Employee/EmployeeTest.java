@@ -1,4 +1,4 @@
-package Employee;
+package hafta2.Employee;
 
 public class EmployeeTest {
 

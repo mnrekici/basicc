@@ -25,6 +25,7 @@ public class TypeConversion{
         System.out.println("Integer converted to double: " + intToDouble);
         System.out.println("Original decimal: " + decimalNumber);
         System.out.println("Decimal converted to integer: " + doubleToInt);
+
     }
 }
 
