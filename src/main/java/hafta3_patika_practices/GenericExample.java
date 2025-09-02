@@ -13,7 +13,7 @@ public class GenericExample {
     public static void main(String[] args) {
         Integer[] numbers = {1,2,3,4,5};
 
-        String[] words = {"Java", "Generics", "Ödev"};
+        String[] words = {"Java", "Generics", "Ödevıoja"};
 
         //Calling the generic method
         printArray(numbers);
