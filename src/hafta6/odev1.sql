@@ -1,4 +1,4 @@
----- 1. film tablosunda title ve description
+-- 1. film tablosunda title ve description
 SELECT title, description FROM film;
 
 -- 2. film tablosunda length 60 > x < 75
